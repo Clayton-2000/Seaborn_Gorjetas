@@ -12,5 +12,5 @@ Esse projeto se trata de _**gorjetas**_, sabemos que no Brasil as pessoas pagam 
 
 * Por fim, faremos a análise da hora do dia, atestando em qual horário nosso grupo dá mais ou menos caixinha. Com base nesta amostra, geramos gráficos de histograma, boxplot e etc.
 
-_Projeto realizado atráves da formação 'Python para Data Science', do curso 'Data Visualization: Explorando com Seaborn', da plataforma de aprendizagem 'Alura'.
+_Projeto realizado atráves da formação 'Python para Data Science', do curso 'Data Visualization: Explorando com Seaborn', da plataforma de aprendizagem 'Alura'._
 
